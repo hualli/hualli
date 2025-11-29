@@ -57,17 +57,6 @@ Disfruto compartir conocimientos. Como **Docente en Digital House**, he formado 
 
 ---
 
-### 📊 Estadísticas GitHub
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hualli&show_icons=true&theme=radical&hide_border=true&locale=es" alt="Estadísticas de Roberto" />
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hualli&layout=compact&theme=radical&hide_border=true&locale=es" alt="Lenguajes más usados" />
-</p>
-
----
-
 <div align="center">
   Creado con ❤️ y desplegado en ☁️ Oracle Cloud Infrastructure
   <br>
